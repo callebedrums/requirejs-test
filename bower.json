@@ -1,0 +1,24 @@
+{
+  "name": "requirejs-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Callebe Gomes <callebedrums@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "requirejs": "^2.2.0"
+  }
+}
